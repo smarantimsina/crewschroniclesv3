@@ -1,0 +1,138 @@
+.title-subcontainer {
+    text-align:center;
+    font-family: 'IM Fell English SC', serif !important;
+    
+}
+.title-subcontainer img {
+    width:50px;
+    position: relative;
+    top: 17px;
+}
+body {
+    font-family: 'Merriweather', serif
+}
+.first-story p {
+    font-size:15px;
+}
+.first-story {
+    padding-left:20px;
+    padding-right:70px;
+}
+.first-story img {
+    width:200px;
+    float: right;
+    border-style:inherit;
+    border-width:10px;
+    border-color:black;
+    border-radius: 10px;
+    
+}
+.main-container {
+    background-color:#fcf7e8;
+    border-radius:20px;
+
+}
+.second-story p {
+    font-size:15px;
+}
+.second-story {
+    padding-left:20px;
+    padding-right:40px;
+}
+.second-story img {
+    width:200px;
+    float: right;
+    border-style:inherit;
+    border-width:10px;
+    border-color:black;
+    border-radius: 10px;
+    
+}
+.third-story p {
+    font-size:15px;
+}
+.third-story {
+    padding-left:20px;
+    padding-right:40px;
+}
+.third-story img {
+    width:200px;
+    float: right;
+    border-style:inherit;
+    border-width:10px;
+    border-color:black;
+    border-radius: 10px;
+}
+.fourth-story img {
+    width:200px;
+    float: right;
+    border-style:inherit;
+    border-width:10px;
+    border-color:black;
+    border-radius: 10px;
+}
+.fourth-story p {
+    font-size:15px;
+}
+.fourth-story {
+    padding-left:20px;
+    padding-right:40px;
+}
+.fourth-story img {
+    width:200px;
+    float: right;
+    border-style:inherit;
+    border-width:10px;
+    border-color:black;
+    border-radius: 10px;
+}
+
+.title-subcontainer h5 {
+    font-style: italic;
+    font-weight:lighter;
+    font-size:30px;
+}
+.title-subcontainer h6 {
+    font-weight:lighter;
+    font-size:17.5px;
+}
+.firstspan {
+    float:left;
+    padding-left:20px;
+    font-size:17.5px;
+}
+.spans {
+    float:right;
+    padding-right:20px;
+    font-size:17.5px;
+}
+.wordsearch {
+    text-align:center;
+}
+.wordsearch img {
+    border-style:inherit;
+    border-width:10px;
+    border-color:black;
+    border-radius: 10px; 
+}
+.thespan {
+    position: relative;
+    bottom: 250px;
+    padding-left:200px;
+    font-size:20px;
+}
+.first-story h3 {
+    color:rgb(255, 44, 40);
+}
+.second-story h3 {
+    color:#ff5280;
+}
+.third-story h3 {
+    color:#2110a7;
+}
+.fourth-story h3 {
+    color:#530b0b;
+}
+.bigletter {
+    font-size:28px;
+}
